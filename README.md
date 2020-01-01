@@ -1,3 +1,3 @@
 # GitHub Actions Test
 
-Hello, GitHub Actions!
+Hello, GitHub Actions! This is test #1.
