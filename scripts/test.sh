@@ -2,4 +2,5 @@
 
 set -e
 
-echo "Pass!!!"
+echo "Failed..."
+exit 1
